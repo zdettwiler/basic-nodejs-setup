@@ -3,3 +3,4 @@ Basic NodeJS setup with
 - nodemon
 - babel
 - dotenv
+- jest
